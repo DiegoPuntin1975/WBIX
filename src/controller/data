@@ -1,0 +1,4 @@
+#comment stuff
+{"Jan": "10", "Feb": "10", "Mar": "10", "Apr": "10", "May": "10", "Jun": "10", "Jul": "10", "Aug": "20", "Sep": "10", "Oct": "10", "Nov": "10", "Dec": "10"}
+Valve 1; 10 min; Mon,Tue,Wed,THu,Fri,SAT; http://10.0.0.6/
+Valve 2; 14 min; Mon,Tue,Wed,THu,Fri,Sat; http://10.0.0.6/
